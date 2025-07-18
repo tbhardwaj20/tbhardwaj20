@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Tushar Bhardwaj
+### Hi there 👋 
+## I'm Tushar Bhardwaj
 
 Passionate Software Engineer | Systems & Backend Enthusiast | Kubernetes & Cloud-Native Explorer
 
